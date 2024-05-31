@@ -1,4 +1,3 @@
-# leeralim.github.io
 Верстка макета психологического тренинга "Психокоррекция личности":
 https://leeralim.github.io/psyc-treni/
 
